@@ -2,67 +2,55 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="48">
+<img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="56">
 
-# Hansem Global
+<br><br>
 
 **Connect People, Technology & Life**
 
-AI-Powered Localization & Technical Communication
-
 <br>
 
-[![Languages](https://img.shields.io/badge/70%2B_Languages-0072CE?style=flat-square)](#)
-[![ISO 17100](https://img.shields.io/badge/ISO_17100-0A233C?style=flat-square)](#)
-[![ISO 27001](https://img.shields.io/badge/ISO_27001-0A233C?style=flat-square)](#)
-[![Top 100 LSP](https://img.shields.io/badge/Top_100_Global_LSP-25CAD2?style=flat-square)](#)
+[![Top 50 LSP](https://img.shields.io/badge/Top_50_Global_LSP-0072CE?style=flat-square)](#)
+[![100+ Languages](https://img.shields.io/badge/100%2B_Languages-0A233C?style=flat-square)](#)
+[![Since 1990](https://img.shields.io/badge/Since_1990-25CAD2?style=flat-square)](#)
 
 </div>
 
----
+<br>
 
-### About
+We are a leading language service provider founded in 1990, specializing in technical documentation, multilingual localization, and AI-driven content solutions. We partner with global enterprises — including Samsung, Hyundai Mobis, and Canon — to deliver precision-crafted content across 100+ languages.
 
-Founded in 1990, Hansem Global is a leading language service provider specializing in technical documentation, multilingual localization, and AI-driven content solutions. We serve global enterprises including Samsung, Hyundai Mobis, and Canon — delivering precision-crafted content across 70+ languages.
+The only Korean LSP ranked in the **CSA Research Global Top 50** (49th, 2025) and **Top 15 in Manufacturing**.
 
-**Headquarters** — Seoul, South Korea<br>
-**US Office** — Irvine, California<br>
-**Vietnam Office** — Ho Chi Minh City
+**Seoul, South Korea** · **Irvine, CA** · **Ho Chi Minh City, Vietnam**
 
 ---
 
-### What We Do
+### Services
 
-**Technical Documentation** — User manuals, installation guides, and service documentation engineered for clarity at global scale.
-
-**Localization & Translation** — ISO 17100-certified professional translation across 70+ languages, from software UI to regulatory submissions.
-
-**AI & Automation** — MTPE, AI-powered subtitle generation, voice cloning & dubbing, and content automation built by our R&D team.
-
-**Game Localization** — End-to-end game localization including LQA, voice-over, and cultural adaptation.
-
-**Marketing Communications** — Transcreation, multilingual content creation, and global campaign localization.
+**Technical Documentation** — User manuals, installation guides, and service documentation engineered for clarity at global scale.<br>
+**Localization & Translation** — ISO 17100-certified professional translation across 100+ languages.<br>
+**AI & Automation** — MTPE, subtitle generation, voice cloning & dubbing, and content automation.<br>
+**Game Localization** — End-to-end localization including LQA, voice-over, and cultural adaptation.<br>
+**Marketing Communications** — Transcreation, multilingual content creation, and campaign localization.<br>
+**Life Sciences** — Pharmaceutical, medical device, and clinical trial translation with regulatory compliance.
 
 ---
 
 ### Hansem Labs
 
-Hansem Labs is our R&D division building internal AI tools and platforms for next-generation localization and content engineering. We work with LLMs, computer vision, speech synthesis, and workflow automation to make our services faster, smarter, and more scalable.
-
----
-
-### Certifications
-
-ISO 9001 · ISO 17100 · ISO 18587 · ISO 27001
-
-Recognized by **CSA Research**, **Nimdzi Insights**, and **Slator** as a Top 100 Global Language Service Provider.
+Our R&D division building AI-powered tools and platforms for next-generation localization and content engineering — working with LLMs, computer vision, speech synthesis, and workflow automation.
 
 ---
 
 <div align="center">
 
-[hansem.com](https://hansem.com) · [LinkedIn](https://www.linkedin.com/company/hansemglobal/) · labs@hansem.com
+ISO 9001 · ISO 17100 · ISO 18587 · ISO 27001
 
-**Suwon, KR** · **Irvine, CA** · **Ho Chi Minh City, VN**
+Recognized by **CSA Research**, **Nimdzi Insights**, and **Slator** as a Top 50 Global LSP.
+
+<br>
+
+[hansem.com](https://hansem.com) · [LinkedIn](https://www.linkedin.com/company/hansemglobal/) · labs@hansem.com
 
 </div>
