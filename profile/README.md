@@ -2,8 +2,7 @@
 
 <br>
 
-<!-- Replace with actual logo path after uploading to .github repo -->
-<!-- <img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="48"> -->
+<img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="48">
 
 # Hansem Global
 
@@ -26,8 +25,8 @@ AI-Powered Localization & Technical Communication
 
 Founded in 1990, Hansem Global is a leading language service provider specializing in technical documentation, multilingual localization, and AI-driven content solutions. We serve global enterprises including Samsung, Hyundai Mobis, and Canon — delivering precision-crafted content across 70+ languages.
 
-**Headquarters** — Suwon, South Korea
-**US Office** — Irvine, California
+**Headquarters** — Seoul, South Korea<br>
+**US Office** — Irvine, California<br>
 **Vietnam Office** — Ho Chi Minh City
 
 ---
