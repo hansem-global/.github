@@ -2,11 +2,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="56">
-
-<br><br>
+# Hansem Global
 
 **Connect People, Technology & Life**
+
+AI-Powered Localization & Technical Communication
 
 <br>
 
@@ -22,7 +22,7 @@ We are a leading language service provider founded in 1990, specializing in tech
 
 The only Korean LSP ranked in the **CSA Research Global Top 50** (49th, 2025) and **Top 15 in Manufacturing**.
 
-**Seoul, South Korea** · **Irvine, CA** · **Ho Chi Minh City, Vietnam**
+**Suwon, South Korea** · **Irvine, CA** · **Ho Chi Minh City, Vietnam**
 
 ---
 
@@ -37,19 +37,38 @@ The only Korean LSP ranked in the **CSA Research Global Top 50** (49th, 2025) an
 
 ---
 
+### Industries
+
+Consumer Electronics · Semiconductors · Automotive · Medical Devices · IT & Software · Telecommunications · Heavy Machinery · Gaming · Digital Healthcare · E-Learning
+
+---
+
 ### Hansem Labs
 
 Our R&D division building AI-powered tools and platforms for next-generation localization and content engineering — working with LLMs, computer vision, speech synthesis, and workflow automation.
 
 ---
 
-<div align="center">
+### Certifications & Recognition
 
-ISO 9001 · ISO 17100 · ISO 18587 · ISO 27001
-
-Recognized by **CSA Research**, **Nimdzi Insights**, and **Slator** as a Top 50 Global LSP.
+| Certification | Scope |
+|---|---|
+| ISO 9001 | Quality Management System |
+| ISO 17100 | Translation Services Quality |
+| ISO 18587 | Machine Translation Post-Editing |
+| ISO 27001 | Information Security Management |
 
 <br>
+
+| Organization | Recognition |
+|---|---|
+| CSA Research | Global Top 50 LSP (49th), Top 15 Manufacturing LSP |
+| Nimdzi Insights | Top 100 Global LSP |
+| Slator | Top 100 Language Service Provider |
+
+---
+
+<div align="center">
 
 [hansem.com](https://hansem.com) · [LinkedIn](https://www.linkedin.com/company/hansemglobal/) · labs@hansem.com
 
