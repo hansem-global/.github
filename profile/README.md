@@ -2,7 +2,7 @@
 
 <br>
 
-# Hansem Global
+<img src="https://raw.githubusercontent.com/hansem-global/.github/main/assets/hansem_bi_wordmark_400h.png" alt="Hansem Global" height="32">
 
 **Connect People, Technology & Life**
 
