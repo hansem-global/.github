@@ -21,11 +21,9 @@ AI-Powered Localization & Technical Communication
 
 ### About
 
-Founded in 1990, Hansem Global is a leading language service provider specializing in technical documentation, multilingual localization, and AI-driven content solutions. We serve global enterprises including Samsung, Hyundai Mobis, and Canon — delivering precision-crafted content across 100+ languages.
+Founded in 1990, Hansem Global is a leading language service provider specializing in technical documentation, multilingual localization, and AI-driven content solutions. We deliver precision-crafted content across 100+ languages for global enterprises in consumer electronics, automotive, semiconductors, medical devices, and gaming.
 
-**Headquarters** — Seoul, South Korea<br>
-**US Office** — Irvine, California<br>
-**Vietnam Office** — Ho Chi Minh City
+The only Korean LSP ranked in the **CSA Research Global Top 50** and **Top 15 in Manufacturing**.
 
 ---
 
